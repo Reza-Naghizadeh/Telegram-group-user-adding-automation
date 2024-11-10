@@ -1,0 +1,2 @@
+# Telegram_group_user_adding_automation
+ This Python script automates the process of adding contacts to a Telegram group by using Selenium WebDriver. It reads phone numbers from an Excel file, validates them, and then adds each contact to Telegram with the provided name and phone number. After adding the contact, the script navigates to a specified Telegram group and attempts to add the new contact. The script includes error handling, random timing for human-like interaction, and manages multiple browser instances to perform these actions efficiently.
