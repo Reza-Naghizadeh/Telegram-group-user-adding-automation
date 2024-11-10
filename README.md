@@ -1,7 +1,3 @@
-Certainly! Here's the updated README with the addition that users need to manually input their username and password during the login process for multiple accounts.
-
----
-
 # Telegram Contact and Group Automation
 
 This Python script automates the process of adding contacts to a Telegram group using Selenium WebDriver. It allows you to manage contacts and add them to specific groups, all while mimicking human-like interaction with random delays between actions to avoid detection.
